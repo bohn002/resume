@@ -1,1 +1,2 @@
-.vscode/ # We are excluding the .vscode folder for cleaner code in the repo but it pretty much just holds my color settings for the Peacock VSCode extension ( https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock )
+# We are excluding the .vscode folder for cleaner code in the repo but it pretty much just holds my color settings for the Peacock VSCode extension ( https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock )
+.vscode/
