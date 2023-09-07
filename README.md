@@ -23,5 +23,5 @@ This is my project so I will pick the code, don't @ me! I will try and pick exam
 
 | Project | Description | Skills Needed |
 | :-----: | ----------- | :-----------: |
-| **Top Wiki Page by Day - (Simple)** | Create a Python script that, when given a particular Date as a string, retrieve the top viewed page for that day. | Python, Date Manipulation, API, REST |
+| **Top Wiki Page by Day - (Simple)** | Create a Python script that, when given a particular Date as a string, retrieve the top viewed page for that week. | Python, Date Manipulation, API, REST |
 | **Top Wiki Page by Day - (AWS Lambda)** | Essentially the same as the other demo, however we are going to implement it as an AWS Lambda and include all the pieces that go along with it to build and deploy the Lambda via Terraform through GitHub Actions. | Python, Terraform, AWS Lambda, API, Date Manipulation, Github Actions |
